@@ -2,15 +2,11 @@
 
 A console snake game written in Pascal
 
-<figure style="display:inline-block">
-    <img src="https://i.imgur.com/RMpmYcw.png" style="height:300px">
-    <figcaption style="text-align:center">Menu Screen</figcaption>
-</figure>
-<br>
-<figure style="display:inline-block">
-    <img src="https://i.imgur.com/4CI36Pm.png" style="height:300px">
-    <figcaption style="text-align:center">Gameplay</figcaption>
-</figure>
+<img src="https://i.imgur.com/RMpmYcw.png" style="height:300px">
+<p align="center">Menu Screen</p>
+<br><br>
+<img src="https://i.imgur.com/4CI36Pm.png" style="height:300px">
+<p align="center">Gameplay</p>
 
 ## Usage
 - Run following script to compile game **(You must install Free Pascal first)**
