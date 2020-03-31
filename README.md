@@ -2,6 +2,8 @@
 
 A console snake game written in Pascal
 
+Install at: https://github.com/pr0f3ss0r-b/pascal-snake-game/raw/master/snake.exe
+
 <img src="https://i.imgur.com/RMpmYcw.png" style="height:300px">
 <p align="center">Menu Screen</p>
 <br><br>
